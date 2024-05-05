@@ -5,6 +5,9 @@
 
 # Awesome list of React Tailwind CSS user interface component libraries!
 
+A curated list of React Tailwind CSS user interface component libraries. 
+To be included in this list, the library must be open-source and have a Tailwind CSS UI component library for React.
+
 ---
 <details>
     <summary><a href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation">Creative Tim - Tailwind Starter Kit</a> - Tailwind Starter Kit is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS.</summary>
