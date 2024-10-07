@@ -12,6 +12,12 @@ PRs are welcome!
 
 ---
 <details>
+    <summary><a href="https://flyonui.com/">FlyonUI - Tailwind CSS Components Library</a> - FlyonUI is an open-source Tailwind CSS Components Library with semantic classes and powerful JS plugins. It offers 800+ components examples. </summary>
+
+[![github card](https://github-stats.h3.nu/api/pin/?username=themeselection&repo=flyonui)](https://github.com/themeselection/flyonui)
+</details>
+
+<details>
     <summary><a href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation">Creative Tim - Tailwind Starter Kit</a> - Tailwind Starter Kit is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS (partially $$$).</summary>
 
 [![github card](https://github-stats.h3.nu/api/pin/?username=creativetimofficial&repo=tailwind-starter-kit)](https://github.com/creativetimofficial/tailwind-starter-kit)
@@ -129,6 +135,28 @@ PRs are welcome!
 
 
 ## With Stats
+<details>
+    <summary><a href="https://flyonui.com/">FlyonUI - Tailwind CSS Components Library</a> - FlyonUI is an open-source Tailwind CSS Components Library with semantic classes and powerful JS plugins. It offers 800+ components examples. </summary>
+
+[![github card](https://github-stats.h3.nu/api/pin/?username=themeselection&repo=flyonui)](https://github.com/themeselection/flyonui)
+</details>
+
+<div float="left">
+    <img alt="Github stars" src="https://img.shields.io/github/stars/themeselection/flyonui?style=flat&logo=github&color=blue" />
+    <img alt="Downloads per month" src="https://img.shields.io/npm/dm/flyonui?style=flat&logo=npm&color=blue" />
+    <img alt="Commits per year" src="https://img.shields.io/github/commit-activity/y/themeselection/flyonui?style=flat&logo=github&color=blue" />
+    <img alt="Created at" src="https://img.shields.io/github/created-at/themeselection/flyonui?style=flat&logoColor=github&color=blue" />
+    <img alt="Github discussions" src="https://img.shields.io/github/discussions/themeselection/flyonui?style=flat&logo=github&color=blue" />
+    <img alt="Github Issues" src="https://img.shields.io/github/issues/themeselection/flyonui?style=flat&logo=github&color=blue" />
+<img alt="Bundle size min" src="https://img.shields.io/bundlephobia/min/flyonui?style=flat&color=blue" />
+    <img alt="Bundle size minzip" src="https://img.shields.io/bundlephobia/minzip/flyonui?style=flat&color=blue" />
+    <img alt="Version" src="https://img.shields.io/npm/v/flyonui?style=flat&color=blue&logo=npm" />
+    <img alt="Language " src="https://img.shields.io/github/languages/top/themeselection/flyonui?style=flat&color=blue" />
+<img alt="Types" src="https://img.shields.io/npm/types/flyonui?style=flat&color=blue&logo=npm" />
+</div>
+
+---
+
 <details>
     <summary><a href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation">Creative Tim - Tailwind Starter Kit</a> - Tailwind Starter Kit is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS (partially $$$).</summary>
 
@@ -498,6 +526,7 @@ PRs are welcome!
 
 | Library                                 | $         | GitHub Stars                                                                                                                    | NPM Downloads (Monthly/Yearly)                                                                                                                                           | GitHub Issues                                                                                                                     | GitHub Discussions                                                                                                                   |
 |-----------------------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| **FlyonUI - Tailwind CSS Components Library** | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/themeselection/flyonui?style=flat&logo=github&color=blue)                         | ![Monthly](https://img.shields.io/npm/dm/flyonui?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/flyonui?style=flat&logo=npm&color=blue)         | ![GitHub Issues](https://img.shields.io/github/issues/themeselection/flyonui?style=flat&logo=github&color=blue)                         | ![Discussions](https://img.shields.io/github/discussions/themeselection/flyonui?style=flat&logo=github&color=blue)                         |
 | **Creative Tim - Tailwind Starter Kit** | partially | ![GitHub Stars](https://img.shields.io/github/stars/creativetimofficial/tailwind-starter-kit?style=flat&logo=github&color=blue) | N/A                                                                                                                                                                      | ![GitHub Issues](https://img.shields.io/github/issues/creativetimofficial/tailwind-starter-kit?style=flat&logo=github&color=blue) | ![Discussions](https://img.shields.io/github/discussions/creativetimofficial/tailwind-starter-kit?style=flat&logo=github&color=blue) |
 | **daisyUI**                             | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/saadeghi/daisyui?style=flat&logo=github&color=blue)                         | ![Monthly](https://img.shields.io/npm/dm/daisyui?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/daisyui?style=flat&logo=npm&color=blue)         | ![GitHub Issues](https://img.shields.io/github/issues/saadeghi/daisyui?style=flat&logo=github&color=blue)                         | ![Discussions](https://img.shields.io/github/discussions/saadeghi/daisyui?style=flat&logo=github&color=blue)                         |
 | **Float UI**                            | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/MarsX-dev/floatui?style=flat&logo=github&color=blue)                        | N/A                                                                                                                                                                      | ![GitHub Issues](https://img.shields.io/github/issues/MarsX-dev/floatui?style=flat&logo=github&color=blue)                        | ![Discussions](https://img.shields.io/github/discussions/MarsX-dev/floatui?style=flat&logo=github&color=blue)                        |
