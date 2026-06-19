@@ -79,6 +79,12 @@ PRs are welcome!
 </details>
 
 <details>
+    <summary><a href="https://www.payload-components.xyz/">Payload Components</a> - MIT registry and CLI for installing Tailwind CSS Payload CMS blocks into Payload v3 + Next.js projects.</summary>
+
+[![github card](https://github-stats.h3.nu/api/pin/?username=Ducksss&repo=payload-components)](https://github.com/Ducksss/payload-components)
+</details>
+
+<details>
     <summary><a href="https://preline.co/">Preline UI</a> - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.</summary>
 
 [![github card](https://github-stats.h3.nu/api/pin/?username=htmlstreamofficial&repo=preline)](https://github.com/htmlstreamofficial/preline)
@@ -345,6 +351,26 @@ PRs are welcome!
 ---
 
 <details>
+    <summary><a href="https://www.payload-components.xyz/">Payload Components</a> - MIT registry and CLI for installing Tailwind CSS Payload CMS blocks into Payload v3 + Next.js projects.</summary>
+
+[![github card](https://github-stats.h3.nu/api/pin/?username=Ducksss&repo=payload-components)](https://github.com/Ducksss/payload-components)
+</details>
+
+<div float="left">
+    <img alt="Github stars" src="https://img.shields.io/github/stars/Ducksss/payload-components?style=flat&logo=github&color=blue" />
+    <img alt="Downloads per month" src="https://img.shields.io/npm/dm/payload-components?style=flat&logo=npm&color=blue" />
+    <img alt="Downloads per year" src="https://img.shields.io/npm/dy/payload-components?style=flat&logo=npm&color=blue" />
+    <img alt="Commits per year" src="https://img.shields.io/github/commit-activity/y/Ducksss/payload-components?style=flat&logo=github&color=blue" />
+    <img alt="Created at" src="https://img.shields.io/github/created-at/Ducksss/payload-components?style=flat&logoColor=github&color=blue" />
+    <img alt="Github discussions" src="https://img.shields.io/github/discussions/Ducksss/payload-components?style=flat&logo=github&color=blue" />
+    <img alt="Github Issues" src="https://img.shields.io/github/issues/Ducksss/payload-components?style=flat&logo=github&color=blue" />
+    <img alt="Version" src="https://img.shields.io/npm/v/payload-components?style=flat&color=blue&logo=npm" />
+    <img alt="Language " src="https://img.shields.io/github/languages/top/Ducksss/payload-components?style=flat&color=blue" />
+</div>
+
+---
+
+<details>
     <summary><a href="https://preline.co/">Preline UI</a> - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.</summary>
 
 [![github card](https://github-stats.h3.nu/api/pin/?username=htmlstreamofficial&repo=preline)](https://github.com/htmlstreamofficial/preline)
@@ -509,6 +535,7 @@ PRs are welcome!
 | **Meraki UI**                           | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/merakiui/merakiui?style=flat&logo=github&color=blue)                        | N/A                                                                                                                                                                      | ![GitHub Issues](https://img.shields.io/github/issues/merakiui/merakiui?style=flat&logo=github&color=blue)                        | ![Discussions](https://img.shields.io/github/discussions/merakiui/merakiui?style=flat&logo=github&color=blue)                        |
 | **NextUI**                              | partially | ![GitHub Stars](https://img.shields.io/github/stars/nextui-org/nextui?style=flat&logo=github&color=blue)                        | N/A                                                                                                                                                                      | ![GitHub Issues](https://img.shields.io/github/issues/nextui-org/nextui?style=flat&logo=github&color=blue)                        | ![Discussions](https://img.shields.io/github/discussions/nextui-org/nextui?style=flat&logo=github&color=blue)                        |
 | **Pagedone**                            | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/pagedone/pagedone?style=flat&logo=github&color=blue)                        | ![Monthly](https://img.shields.io/npm/dm/pagedone?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/pagedone?style=flat&logo=npm&color=blue)       | ![GitHub Issues](https://img.shields.io/github/issues/pagedone/pagedone?style=flat&logo=github&color=blue)                        | ![Discussions](https://img.shields.io/github/discussions/pagedone/pagedone?style=flat&logo=github&color=blue)                        |
+| **Payload Components**                  | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/Ducksss/payload-components?style=flat&logo=github&color=blue)               | ![Monthly](https://img.shields.io/npm/dm/payload-components?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/payload-components?style=flat&logo=npm&color=blue) | ![GitHub Issues](https://img.shields.io/github/issues/Ducksss/payload-components?style=flat&logo=github&color=blue)               | ![Discussions](https://img.shields.io/github/discussions/Ducksss/payload-components?style=flat&logo=github&color=blue)               |
 | **Preline UI**                          | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/htmlstreamofficial/preline?style=flat&logo=github&color=blue)               | ![Monthly](https://img.shields.io/npm/dm/preline?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/preline?style=flat&logo=npm&color=blue)         | ![GitHub Issues](https://img.shields.io/github/issues/htmlstreamofficial/preline?style=flat&logo=github&color=blue)               | ![Discussions](https://img.shields.io/github/discussions/htmlstreamofficial/preline?style=flat&logo=github&color=blue)               |
 | **Sailboat UI**                         | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/sailboatui/sailboatui?style=flat&logo=github&color=blue)                    | N/A                                                                                                                                                                      | ![GitHub Issues](https://img.shields.io/github/issues/sailboatui/sailboatui?style=flat&logo=github&color=blue)                    | ![Discussions](https://img.shields.io/github/discussions/sailboatui/sailboatui?style=flat&logo=github&color=blue)                    |
 | **shadcn UI**                           | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/shadcn-ui/ui?style=flat&logo=github&color=blue)                             | N/A                                                                                                                                                                      | ![GitHub Issues](https://img.shields.io/github/issues/shadcn-ui/ui?style=flat&logo=github&color=blue)                             | ![Discussions](https://img.shields.io/github/discussions/shadcn-ui/ui?style=flat&logo=github&color=blue)                             |
