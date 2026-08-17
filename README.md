@@ -85,6 +85,10 @@ PRs are welcome!
 </details>
 
 <details>
+    <summary><a href="https://radianui.com">Radian UI</a> - Accessible React component library built on Radix UI and Tailwind CSS, with CLI and Figma UI Kit.</summary>
+</details>
+
+<details>
     <summary><a href="https://sailboatui.com/">Sailboat UI</a> - Sailboat UI is a modern UI component library for Tailwind CSS. Get started with 150+ open-source Tailwind CSS components, and make it easy to build your products.</summary>
 
 [![github card](https://github-stats.h3.nu/api/pin/?username=sailboatui&repo=sailboatui)](https://github.com/sailboatui/sailboatui)
