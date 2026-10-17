@@ -73,6 +73,12 @@ PRs are welcome!
 </details>
 
 <details>
+    <summary><a href="https://otf-kit.dev/components">OTF UI</a> - One component set for web, iOS and Android. 240+ free MIT components (npm @otfdashkit/ui).</summary>
+
+[![github card](https://github-stats.h3.nu/api/pin/?username=otf-kit&repo=sdk)](https://github.com/otf-kit/sdk)
+</details>
+
+<details>
     <summary><a href="https://pagedone.io/">Pagedone</a> - Lightning fast modern designs for your next project - Build websites faster than ever before with our open-source library featuring 1000+ UI components, sections, and pages designed in Figma and built on Tailwind CSS. </summary>
 
 [![github card](https://github-stats.h3.nu/api/pin/?username=Pagedone&repo=Pagedone)](https://github.com/Pagedone/Pagedone)
@@ -322,6 +328,23 @@ PRs are welcome!
 ---
 
 <details>
+    <summary><a href="https://otf-kit.dev/components">OTF UI</a> - One component set for web, iOS and Android. 240+ free MIT components (npm @otfdashkit/ui).</summary>
+
+[![github card](https://github-stats.h3.nu/api/pin/?username=otf-kit&repo=sdk)](https://github.com/otf-kit/sdk)
+</details>
+
+<div float="left">
+    <img alt="Github stars" src="https://img.shields.io/github/stars/otf-kit/sdk?style=flat&logo=github&color=blue" />
+    <img alt="Commits per year" src="https://img.shields.io/github/commit-activity/y/otf-kit/sdk?style=flat&logo=github&color=blue" />
+    <img alt="Created at" src="https://img.shields.io/github/created-at/otf-kit/sdk?style=flat&logoColor=github&color=blue" />
+    <img alt="Github discussions" src="https://img.shields.io/github/discussions/otf-kit/sdk?style=flat&logo=github&color=blue" />
+    <img alt="Github Issues" src="https://img.shields.io/github/issues/otf-kit/sdk?style=flat&logo=github&color=blue" />
+    <img alt="Language " src="https://img.shields.io/github/languages/top/otf-kit/sdk?style=flat&color=blue" />
+</div>
+
+---
+
+<details>
     <summary><a href="https://pagedone.io/">Pagedone</a> - Lightning fast modern designs for your next project - Build websites faster than ever before with our open-source library featuring 1000+ UI components, sections, and pages designed in Figma and built on Tailwind CSS. </summary>
 
 [![github card](https://github-stats.h3.nu/api/pin/?username=Pagedone&repo=Pagedone)](https://github.com/Pagedone/Pagedone)
@@ -508,6 +531,7 @@ PRs are welcome!
 | **MAMBA UI**                            | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/Microwawe/mamba-ui?style=flat&logo=github&color=blue)                       | N/A                                                                                                                                                                      | ![GitHub Issues](https://img.shields.io/github/issues/Microwawe/mamba-ui?style=flat&logo=github&color=blue)                       | ![Discussions](https://img.shields.io/github/discussions/Microwawe/mamba-ui?style=flat&logo=github&color=blue)                       |
 | **Meraki UI**                           | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/merakiui/merakiui?style=flat&logo=github&color=blue)                        | N/A                                                                                                                                                                      | ![GitHub Issues](https://img.shields.io/github/issues/merakiui/merakiui?style=flat&logo=github&color=blue)                        | ![Discussions](https://img.shields.io/github/discussions/merakiui/merakiui?style=flat&logo=github&color=blue)                        |
 | **NextUI**                              | partially | ![GitHub Stars](https://img.shields.io/github/stars/nextui-org/nextui?style=flat&logo=github&color=blue)                        | N/A                                                                                                                                                                      | ![GitHub Issues](https://img.shields.io/github/issues/nextui-org/nextui?style=flat&logo=github&color=blue)                        | ![Discussions](https://img.shields.io/github/discussions/nextui-org/nextui?style=flat&logo=github&color=blue)                        |
+| **OTF UI**                              | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/otf-kit/sdk?style=flat&logo=github&color=blue)                                | ![Monthly](https://img.shields.io/npm/dm/@otfdashkit/ui?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/@otfdashkit/ui?style=flat&logo=npm&color=blue) | ![GitHub Issues](https://img.shields.io/github/issues/otf-kit/sdk?style=flat&logo=github&color=blue)                                | ![Discussions](https://img.shields.io/github/discussions/otf-kit/sdk?style=flat&logo=github&color=blue)                                |
 | **Pagedone**                            | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/pagedone/pagedone?style=flat&logo=github&color=blue)                        | ![Monthly](https://img.shields.io/npm/dm/pagedone?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/pagedone?style=flat&logo=npm&color=blue)       | ![GitHub Issues](https://img.shields.io/github/issues/pagedone/pagedone?style=flat&logo=github&color=blue)                        | ![Discussions](https://img.shields.io/github/discussions/pagedone/pagedone?style=flat&logo=github&color=blue)                        |
 | **Preline UI**                          | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/htmlstreamofficial/preline?style=flat&logo=github&color=blue)               | ![Monthly](https://img.shields.io/npm/dm/preline?style=flat&logo=npm&color=blue) ![Yearly](https://img.shields.io/npm/dy/preline?style=flat&logo=npm&color=blue)         | ![GitHub Issues](https://img.shields.io/github/issues/htmlstreamofficial/preline?style=flat&logo=github&color=blue)               | ![Discussions](https://img.shields.io/github/discussions/htmlstreamofficial/preline?style=flat&logo=github&color=blue)               |
 | **Sailboat UI**                         | 🆓        | ![GitHub Stars](https://img.shields.io/github/stars/sailboatui/sailboatui?style=flat&logo=github&color=blue)                    | N/A                                                                                                                                                                      | ![GitHub Issues](https://img.shields.io/github/issues/sailboatui/sailboatui?style=flat&logo=github&color=blue)                    | ![Discussions](https://img.shields.io/github/discussions/sailboatui/sailboatui?style=flat&logo=github&color=blue)                    |
